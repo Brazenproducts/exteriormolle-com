@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://exteriormolle.com/sitemap.xml
